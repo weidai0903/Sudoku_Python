@@ -1,4 +1,5 @@
 # Wei Dai
+# CIT591 Assignment 4:Sudoku
 
 def read_sudoku(file):
     stream = open(file)
